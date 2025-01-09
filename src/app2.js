@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const express = require("express");
 const app = express();
 const port = 3000;
@@ -15,3 +16,6 @@ app.use(
 app.listen(port, () => {
   console.log(`app is runnung on port : ${port}`);
 });
+=======
+
+>>>>>>> 4c1337de8aa9ce946a528c0c99853cd6f93cb358
